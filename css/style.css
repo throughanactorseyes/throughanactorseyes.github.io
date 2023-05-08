@@ -76,7 +76,7 @@ img.progressimages {
 
 .timelinelist {
     font-size: large;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .question1 {
@@ -126,4 +126,9 @@ img.progressimages {
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+.castinginfo {
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
